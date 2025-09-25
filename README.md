@@ -1,5 +1,6 @@
 # tinymce-plugin-faicon
 A plugin for MODX TinyMCE that adds the option to place a Font Awesome icon.
+
 <img width="801" height="70" alt="image" src="https://github.com/user-attachments/assets/3639eef9-1c92-471a-b7a3-d32ee45a90be" />
 <img width="513" height="396" alt="image" src="https://github.com/user-attachments/assets/862b83e8-efea-49eb-91ae-624dfbc03dd6" />
 
