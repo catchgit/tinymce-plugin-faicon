@@ -6,6 +6,8 @@ A plugin for MODX TinyMCE that adds the option to place a Font Awesome icon.
 Tested with MODX 3.1.2 and TinyMCE Rich Text Editor 3.1.5
 Tested with Font Awesome 7 & 6 Free or Pro
 
+Place plugin.min.js here: assets/components/tinymcerte/mgr/tinymce/plugins/faicon
+
 You need to do three things to activate it:
 
 1. Add "faicon" to the system setting tinymcerte.plugins
